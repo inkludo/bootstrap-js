@@ -1,1 +1,1 @@
-https://koldovsky.github.io/online-shop/
+https://inkludo.github.io/bootstrap-js/
